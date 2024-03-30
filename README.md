@@ -1,0 +1,1 @@
+This repository showcases my final project for Fundação Educere, a comprehensive vehicle license plate recognition system built with Python, Tesseract, and OpenCV. The system is designed to accurately detect and recognize license plates from images, subsequently sending the extracted information to a MySQL database.
